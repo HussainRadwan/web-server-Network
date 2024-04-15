@@ -45,56 +45,13 @@ Now run "main.py" then Open your preferred web browser and type `http://localhos
 https://github.com/HussainRadwan/Network-Creating-a-Server-/assets/161932786/60b067ee-7603-48df-81d8-3afeb0ea859e
 
 
-## Running the tests
+## It can do multiple things 
+![Screenshot 2023-09-01 112647](https://github.com/HussainRadwan/Network-Creating-a-Server-/assets/161932786/fea4e894-21b6-4329-aa13-c677e22eee3e)
 
-Explain how to run the automated tests for this system
+### Opinging other sits 
 
-### Break down into end to end tests
+### Tow interfaces one in English and the other in Arabic 
+![image](https://github.com/HussainRadwan/Network-Creating-a-Server-/assets/161932786/bfa6ba33-0a5c-4caf-9a81-f32419e5acde)
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+### other things like ERROR page and sorting files ..etc
+![Screenshot 2023-09-01 115520](https://github.com/HussainRadwan/Network-Creating-a-Server-/assets/161932786/671bd07c-e6be-47d9-94a0-6a8729e9278c)

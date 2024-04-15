@@ -36,23 +36,14 @@ if the socket is not installed, it can be installed by launching the Command Pro
 pip install socket
 ```
 
-### Installing
+### Installing & Running
 
-A step by step series of examples that tell you how to get a development env running
+First create a new File then install all my files in the new file 
 
-Say what the step will be
+Now run "main.py" then Open your preferred web browser and type `http://localhost:12345/` or `http://127.0.0.1:12345/` as following:
 
-```
-Give the example
-```
+https://github.com/HussainRadwan/Network-Creating-a-Server-/assets/161932786/60b067ee-7603-48df-81d8-3afeb0ea859e
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 

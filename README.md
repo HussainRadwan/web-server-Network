@@ -3,6 +3,7 @@
 The project involves creating a simple web server in Python that listens on port 12345 and serves different responses based on the incoming URL requests
 The server parses HTTP requests, serves HTML content, including "main_en.html" with specific content and styling, handles images, links, and group information display, and sends appropriate HTTP headers. Error handling and testing are crucial aspects, ensuring the server functions as intended, providing an interactive web experience when users access URLs like "http://localhost:12345/ar" or "http://localhost:12345/en." The implementation specifics will vary by language, but the core components include socket programming, HTTP request processing, HTML/CSS generation, and serving files to meet the specified conditions.
 
+![image](https://github.com/HussainRadwan/Network-Creating-a-Server-/assets/161932786/926c5b5f-cd9b-4b4d-8fad-e7cea10fe871)
 
 ## Getting Started
 

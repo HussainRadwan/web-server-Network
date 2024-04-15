@@ -1,0 +1,10 @@
+Acer 799
+Apple 999
+Dell 999
+Microsoft 999
+HP 1099
+ASUS 1199
+Lenovo 1399
+MSI 1499
+Razer 1499
+LG 1499
